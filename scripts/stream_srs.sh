@@ -3,7 +3,7 @@
 
 # Configurações
 SRS_SOURCE="rtmp://localhost/live/livestream"  # Saída do seu SRS
-YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2/rjmt-wvpr-rjy6-a9qw-7wmh"  # Sua chave YouTube
+YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2/STREAM_KEY"  # Sua chave YouTube
 LOG_DIR="/home/lucas/logs"
 LOG_FILE="$LOG_DIR/youtube_restream.log"
 
